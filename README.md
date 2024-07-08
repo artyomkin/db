@@ -1,4 +1,4 @@
-ISBD Course work.
+## ISBD Course work.
 
 This project enables users to manage operations related to spacecraft that extract various minerals from asteroids in space. A key feature of this project is that the database schema has been normalized to the third normal form. Moreover, a significant portion of the business logic is encapsulated within SQL triggers.
 
