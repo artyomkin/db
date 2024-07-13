@@ -16,6 +16,3 @@ Business logic is implemented using SQL triggers for automated processing and va
 2. Execute SQL queries to interact with the spacecraft, asteroids, minerals, and mining operations data.
 3. Utilize the provided SQL triggers to automate certain processes and enforce business rules.
 4. Refer to the database schema documentation for a detailed overview of the table structure and relationships.
-
-## License
-This project is licensed under the MIT License.
